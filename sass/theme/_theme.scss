@@ -1,0 +1,121 @@
+body{
+  font-family: 'Merriweather', serif;
+  color: #3A4145;
+  font-weight: 300;
+  line-height: 1.75em;
+}
+.site-navigation{
+  box-shadow: 0 0 3px rgba(0,0,0,.2);
+}
+.home{
+#content{
+  padding: 3% 0;
+}
+  .site-main{
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    padding-left: 50px;
+    margin-left: 50px;
+  }
+}
+.post p {
+  margin-bottom: 30px;
+  line-height: 1.75em;
+}
+
+.entry-title{
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.hentry + .hentry {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 50px 0;
+}
+
+.social li {
+  display: inline-block;
+  margin: 0 5px;
+}
+a.themeeo-read-more-link {
+  color: #0074b8;
+  text-decoration: underline;
+}
+
+.entry-meta {
+  margin-bottom: 20px;
+  font-family: Lato, sans-serif;
+}
+
+.single .entry-meta{
+  border-bottom: 1px solid #eceeef;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+.author-avatar{
+  margin-bottom: 30px;
+  img {
+    border-radius: 50%;
+    border: 5px solid #eee;
+    padding: 2px;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.widget_nav_menu{
+  display: block;
+  overflow: hidden;
+  ul {
+    list-style: none;
+    margin: 0;
+    border-top: 1px solid rgba(51, 51, 51, 0.1);
+    border-bottom: 1px solid rgba(51, 51, 51, 0.1);
+    padding-left: 0;
+    li{
+      display: block;
+      float: none;
+      border-top: 1px solid rgba(51, 51, 51, 0.1);
+      a {
+        padding: 0.5em 0 0.5em 1em;
+        display: block;
+        position: relative;
+        color: #232323;
+        font-size: 16px;
+      }
+
+      &:first-child{
+        border-top: 0;
+      }
+    }
+  }
+}
+
+#wrapper-footer{
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+.attachment-portfolio-thumbnail + .entry-header {
+  margin-top: 20px;
+}
+.entry-title{
+  margin-bottom: 20px;
+}
+.hentry{
+  img{
+    max-width: 100%;
+  }
+}
+.attachment-large{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.hentry + .hentry{
+  .entry-title{
+    margin-bottom: 20px;
+  }
+}

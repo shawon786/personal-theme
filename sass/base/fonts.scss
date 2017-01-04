@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-weight: 400;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/RFda8w1V0eDZheqfcyQ4EHZ2MAKAc2x4R1uOSeegc5U.eot');
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/RFda8w1V0eDZheqfcyQ4EHZ2MAKAc2x4R1uOSeegc5U.eot?#iefix') format('embedded-opentype'),
+  local('Merriweather'),
+  local('Merriweather-regular'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/RFda8w1V0eDZheqfcyQ4EBampu5_7CjHW5spxoeN3Vs.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/RFda8w1V0eDZheqfcyQ4EKRDOzjiPcYnFooOUGCOsRk.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=RFda8w1V0eDZheqfcyQ4EFlIn5tFQcqMuf-jhyJP0ps&skey=379c1eccf863c625&v=v13#Merriweather') format('svg');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-weight: 700;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nmmsoyWrDyoltQVIP7q_RGg.eot');
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nmmsoyWrDyoltQVIP7q_RGg.eot?#iefix') format('embedded-opentype'),
+  local('Merriweather Bold'),
+  local('Merriweather-700'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nshHwsiXhsDb0smKjAA7Bek.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nhAPw1J91axKNXP_-QX9CC8.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nn06qf9KHRHwsVx7iw5MXmY.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=ZvcMqxEwPfh2qDWBPxn6ngay50PuN8loMJ9QAXsTs7U&skey=76f88370d7055e09&v=v13#Merriweather') format('svg');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-weight: 400;
+  font-style: italic;
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/So5lHxHT37p2SS4-t60SlDoGYR7Z3iWH66EXnaJoKgg.eot');
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/So5lHxHT37p2SS4-t60SlDoGYR7Z3iWH66EXnaJoKgg.eot?#iefix') format('embedded-opentype'),
+  local('Merriweather Italic'),
+  local('Merriweather-italic'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/So5lHxHT37p2SS4-t60SlGfrnYWAzH6tTbHZfcsRIsM.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/So5lHxHT37p2SS4-t60SlL52ooqJRs02xO3mONBoqeI.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/So5lHxHT37p2SS4-t60SlCtfYakCkPqOMDce0h_3gD8.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=So5lHxHT37p2SS4-t60SlH2UFnxWCzsMUZbVj2XRF5M&skey=899922b35e8afa66&v=v13#Merriweather') format('svg');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-weight: 300;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6noySLpARcVRs9uFJp0LRZgE.eot');
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6noySLpARcVRs9uFJp0LRZgE.eot?#iefix') format('embedded-opentype'),
+  local('Merriweather Light'),
+  local('Merriweather-300'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nkZRWJQ0UjzR2Uv6RollX_g.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6nmB7wJ9CoPCp9n30ZBThZ1I.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/ZvcMqxEwPfh2qDWBPxn6ngV_pQ1T3xN3K1c3sB361us.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=ZvcMqxEwPfh2qDWBPxn6nrJg1hA63dzswhy4NvEPrPM&skey=c2b76fd8ebf2629b&v=v13#Merriweather') format('svg');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-weight: 300;
+  font-style: italic;
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/EYh7Vl4ywhowqULgRdYwICH_XWDaITL6s384ufbsW_o.eot');
+  src: url('http://fonts.gstatic.com/s/merriweather/v13/EYh7Vl4ywhowqULgRdYwICH_XWDaITL6s384ufbsW_o.eot?#iefix') format('embedded-opentype'),
+  local('Merriweather Light Italic'),
+  local('Merriweather-300italic'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/EYh7Vl4ywhowqULgRdYwIB0ue0Sk5cwvYx5tGiUAApw.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/EYh7Vl4ywhowqULgRdYwIKG6KSkCb3wBFlS6Qx4Mm8U.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/merriweather/v13/EYh7Vl4ywhowqULgRdYwIH3uxQAI1Bvm-GxtFNy4yl0.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=EYh7Vl4ywhowqULgRdYwINv65-B3V1C1aB1PFKVs0gQ&skey=2127cbbec4112664&v=v13#Merriweather') format('svg');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot');
+  src: url('http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot?#iefix') format('embedded-opentype'),
+  local('Open Sans'),
+  local('Open-Sans-regular'),
+  url('http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=cJZKeOuBrn4kERxqtaUH3Zbd9NUM7myrQQz30yPaGQ4&skey=62c1cbfccc78b4b2&v=v13#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot');
+  src: url('http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot?#iefix') format('embedded-opentype'),
+  local('Open Sans Bold'),
+  local('Open-Sans-700'),
+  url('http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=k3k702ZOKiLJc3WVjuplzFlIn5tFQcqMuf-jhyJP0ps&skey=cd9e1a36bb25a3c3&v=v13#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: normal;
+  src: url('http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnZ2MAKAc2x4R1uOSeegc5U.eot');
+  src: url('http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnZ2MAKAc2x4R1uOSeegc5U.eot?#iefix') format('embedded-opentype'),
+  local('Open Sans Semibold'),
+  local('Open-Sans-600'),
+  url('http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNShampu5_7CjHW5spxoeN3Vs.woff2') format('woff2'),
+  url('http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff') format('woff'),
+  url('http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf') format('truetype'),
+  url('http://fonts.gstatic.com/l/font?kit=MTP_ySUJH_bn48VBG8sNSllIn5tFQcqMuf-jhyJP0ps&skey=a162967ffaa5aa08&v=v13#OpenSans') format('svg');
+}
+
